@@ -1,0 +1,16 @@
+*.class
+*.ctxt
+*.ear
+*.jar
+*.log
+*.nar
+*.rar
+*.tar.gz
+*.war
+*.zip
+.idea/
+.mtj.tmp/
+hs_err_pid*
+out/
+replay_pid*
+target/
